@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "Insurance coverage for cars is getting more affordable this year. #insurance #auto",
+    "author": "user_a",
+    "created_at": "2026-06-01T08:30:00Z",
+    "source": "sample"
+  },
+  {
+    "id": "2",
+    "text": "I just filed a claim and the process was smooth and fast. Great service!",
+    "author": "user_b",
+    "created_at": "2026-06-01T09:10:00Z",
+    "source": "sample"
+  },
+  {
+    "id": "3",
+    "text": "Looking for health insurance options with better coverage and lower premiums.",
+    "author": "user_c",
+    "created_at": "2026-06-01T10:20:00Z",
+    "source": "sample"
+  },
+  {
+    "id": "4",
+    "text": "RT @news: New insurance policies are launching in the market today.",
+    "author": "user_d",
+    "created_at": "2026-06-01T11:00:00Z",
+    "source": "sample"
+  },
+  {
+    "id": "5",
+    "text": "Auto insurance claims are being approved faster with better digital support.",
+    "author": "user_e",
+    "created_at": "2026-06-01T11:45:00Z",
+    "source": "sample"
+  }
+]
